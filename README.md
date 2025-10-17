@@ -25,9 +25,8 @@ Análisis integral de datos de accidentes laborales en Chile para identificar pa
 
 ### 🔬 Análisis de Datos
 - Identificar patrones geográficos de accidentabilidad
-- Analizar segmentación por actividad económica
-- Evaluar performance de mutuales por región
-- Detectar tendencias temporales (2024-2025)
+- Analizar la participacion de mercado por actividad económica y region
+- Evaluar performance de mutuales por región y actividad economica
 
 ## 🛠️ Stack Tecnológico Implementado
 
@@ -57,7 +56,6 @@ Análisis integral de datos de accidentes laborales en Chile para identificar pa
 - **Análisis Geográfico** por regiones
 - **Segmentación por Actividad Económica** (CIIU)
 - **Análisis Comparativo** entre mutuales
-- **Tendencias Temporales** 2024-2025
 - **Market Share Analysis** por segmentos
 
 ## 🗃️ Arquitectura de Datos Implementada
